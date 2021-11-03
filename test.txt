@@ -1,1 +1,3 @@
-none
+- improved aim - bot.
+- improved doubletap.
+- improved anim - fix.
