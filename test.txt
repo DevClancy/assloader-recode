@@ -1,3 +1,4 @@
 - improved rage aimbot.
 - improved doubletap.
 - improved animfix.
+- fixed DT.
