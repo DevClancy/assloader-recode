@@ -1,4 +1,4 @@
-- improved rage aimbot.
-- improved doubletap.
-- improved animfix.
-- fixed DT.
+- improved predict.
+- improved optimization.
+- reworked AA.
+- fixed fakeduck.
