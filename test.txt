@@ -1,4 +1,5 @@
-- improved predict.
 - improved optimization.
-- reworked AA.
-- fixed fakeduck.
+- improved exploit system.
+- fixed bugs.
+- fixed chams on agents.
+- deleted confirm for save cfg.
