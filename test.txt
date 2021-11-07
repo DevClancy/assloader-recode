@@ -1,5 +1,4 @@
-- improved optimization.
+- improved resolver.
 - improved exploit system.
+- added ragdolls type.
 - fixed bugs.
-- fixed chams on agents.
-- deleted confirm for save cfg.
