@@ -1,4 +1,6 @@
 - improved resolver.
-- improved exploit system.
-- added ragdolls type.
+- improved optimization.
 - fixed bugs.
+- fixed AA.
+- added legs movement.
+- changed elements location.
