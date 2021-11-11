@@ -1,6 +1,6 @@
-- improved resolver.
+- added new flag LC.
+- added freestanding in fake options.
 - improved optimization.
-- fixed bugs.
-- fixed AA.
-- added legs movement.
-- changed elements location.
+- deleted function hide from obs.
+- deleted function server crasher.
+- fixed random crashes.
