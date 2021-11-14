@@ -1,6 +1,7 @@
-- added new flag LC.
-- added freestanding in fake options.
-- improved optimization.
-- deleted function hide from obs.
-- deleted function server crasher.
-- fixed random crashes.
+- added legit resolver (test).
+- added custom clantag.
+- improved anim-fix.
+- improved resolver.
+- improved resolver override.
+- improved hitscan.
+- changed color of flag LC.
