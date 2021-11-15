@@ -1,8 +1,5 @@
-- added legit resolver (test).
-- added custom clantag.
-- improved anim-fix.
 - improved resolver.
-- improved resolver override.
-- improved hitscan.
-- improved menu.
-- changed color of flag LC.
+- improved anim-fix.
+- improved dormant esp.
+- improved predict.
+- added function extended backtrack.
