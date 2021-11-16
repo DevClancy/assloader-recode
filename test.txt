@@ -1,5 +1,7 @@
+- added function walkbot.
+- added function trails mode.
+- added function keybinds list mode.
+- fixed bugs.
+- improved optimization.
 - improved resolver.
-- improved anim-fix.
-- improved dormant esp.
-- improved predict.
-- added function extended backtrack.
+- improved doubletap.
