@@ -1,7 +1,8 @@
-- added function walkbot.
-- added function trails mode.
-- added function keybinds list mode.
-- fixed bugs.
-- improved optimization.
-- improved resolver.
+- added additional options for trails.
+- added function aimbot hitboxes mode.
 - improved doubletap.
+- improved predict.
+- improved buybot.
+- fixed saving hitboxes in legit.
+- fixed teleport.
+- changed menu text.
