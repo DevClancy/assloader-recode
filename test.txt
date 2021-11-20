@@ -1,8 +1,5 @@
-- added additional options for trails.
-- added function aimbot hitboxes mode.
-- improved doubletap.
-- improved predict.
-- improved buybot.
-- fixed saving hitboxes in legit.
-- fixed teleport.
-- changed menu text.
+- added function force head aim.
+- fixed inverter.
+- fixed lagsync.
+- fixed trail length.
+- fixed ignore limbs on moving.
