@@ -1,13 +1,1 @@
-- added function force head aim.
-- added function animfucker.
-- added support of metamod for spec. list.
-- fixed inverter.
-- fixed lagsync.
-- fixed trail length.
-- fixed ignore limbs on moving.
-- fixed desync.
-- fixed manuals.
-- fixed auto direction.
-- fixed bugs.
-- changed yaw add offset.
-and more
+- reworked doubletap.
