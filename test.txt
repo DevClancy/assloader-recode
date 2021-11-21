@@ -1,1 +1,8 @@
 - reworked doubletap.
+- reworked lua api (not full).
+- changed text in menu.
+- deleted aimbot with knife.
+- deleted aimbot with zeus.
+- deleted automatic fire.
+- fixed manuals.
+- fixed freestanding.
