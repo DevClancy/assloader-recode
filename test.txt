@@ -1,6 +1,7 @@
-- fixed doubletap.
-- fixed crashes.
-- fixed left hand knife.
-- fixed bugs.
-- changed text in menu.
-- changed colors in menu.
+- added grenade warning.
+- reworked hitchance.
+- reworked legit.
+- improved rage backtrack.
+- improved resolver.
+- improved doubletap.
+and more
