@@ -1,7 +1,7 @@
-- added grenade warning.
-- reworked hitchance.
-- reworked legit.
-- improved rage backtrack.
-- improved resolver.
-- improved doubletap.
-and more
+- added sway in desync on shot.
+- improved optimization.
+- improved hitchance.
+- fixed animations.
+- fixed bugs.
+- fixed crashes.
+- fixed desync on shot.
