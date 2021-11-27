@@ -1,5 +1,8 @@
 - added sway in desync on shot.
+- added disable dt on knife.
+- imrpoved resolver.
 - improved optimization.
+- improved doubletap.
 - improved hitchance.
 - fixed animations.
 - fixed bugs.
